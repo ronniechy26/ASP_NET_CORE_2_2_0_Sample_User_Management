@@ -1,0 +1,74 @@
+C:\Users\acctechnology\Source\Repos\UserManagementDemo\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.deps.json
+C:\Users\acctechnology\Source\Repos\UserManagementDemo\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.runtimeconfig.json
+C:\Users\acctechnology\Source\Repos\UserManagementDemo\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.runtimeconfig.dev.json
+C:\Users\acctechnology\Source\Repos\UserManagementDemo\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.dll
+C:\Users\acctechnology\Source\Repos\UserManagementDemo\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.csprojAssemblyReference.cache
+C:\Users\acctechnology\Source\Repos\UserManagementDemo\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.csproj.CoreCompileInputs.cache
+C:\Users\acctechnology\Source\Repos\UserManagementDemo\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.RazorAssemblyInfo.cache
+C:\Users\acctechnology\Source\Repos\UserManagementDemo\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.RazorAssemblyInfo.cs
+C:\Users\acctechnology\Source\Repos\UserManagementDemo\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.AssemblyInfoInputs.cache
+C:\Users\acctechnology\Source\Repos\UserManagementDemo\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.AssemblyInfo.cs
+C:\Users\acctechnology\Source\Repos\UserManagementDemo\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.RazorTargetAssemblyInfo.cache
+C:\Users\acctechnology\Source\Repos\UserManagementDemo\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.pdb
+C:\Users\acctechnology\Source\Repos\UserManagementDemo\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.dll
+C:\Users\acctechnology\Source\Repos\UserManagementDemo\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.pdb
+C:\Users\acctechnology\Source\Repos\UserManagementDemoToken\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.deps.json
+C:\Users\acctechnology\Source\Repos\UserManagementDemoToken\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.runtimeconfig.json
+C:\Users\acctechnology\Source\Repos\UserManagementDemoToken\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.runtimeconfig.dev.json
+C:\Users\acctechnology\Source\Repos\UserManagementDemoToken\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.dll
+C:\Users\acctechnology\Source\Repos\UserManagementDemoToken\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.pdb
+C:\Users\acctechnology\Source\Repos\UserManagementDemoToken\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.csprojAssemblyReference.cache
+C:\Users\acctechnology\Source\Repos\UserManagementDemoToken\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.csproj.CoreCompileInputs.cache
+C:\Users\acctechnology\Source\Repos\UserManagementDemoToken\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.RazorAssemblyInfo.cache
+C:\Users\acctechnology\Source\Repos\UserManagementDemoToken\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.RazorAssemblyInfo.cs
+C:\Users\acctechnology\Source\Repos\UserManagementDemoToken\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.AssemblyInfoInputs.cache
+C:\Users\acctechnology\Source\Repos\UserManagementDemoToken\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.AssemblyInfo.cs
+C:\Users\acctechnology\Source\Repos\UserManagementDemoToken\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.RazorTargetAssemblyInfo.cache
+C:\Users\acctechnology\Source\Repos\UserManagementDemoToken\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.dll
+C:\Users\acctechnology\Source\Repos\UserManagementDemoToken\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.pdb
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - Copy\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.deps.json
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - Copy\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.runtimeconfig.json
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - Copy\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.runtimeconfig.dev.json
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - Copy\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.dll
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - Copy\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.pdb
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - Copy\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.csprojAssemblyReference.cache
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - Copy\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.csproj.CoreCompileInputs.cache
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - Copy\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.RazorAssemblyInfo.cache
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - Copy\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.RazorAssemblyInfo.cs
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - Copy\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.AssemblyInfoInputs.cache
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - Copy\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.AssemblyInfo.cs
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - Copy\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.RazorTargetAssemblyInfo.cache
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - Copy\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.dll
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - Copy\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.pdb
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - usermanager\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.deps.json
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - usermanager\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.runtimeconfig.json
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - usermanager\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.runtimeconfig.dev.json
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - usermanager\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.dll
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - usermanager\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.pdb
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - usermanager\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.csprojAssemblyReference.cache
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - usermanager\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.csproj.CoreCompileInputs.cache
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - usermanager\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.RazorAssemblyInfo.cache
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - usermanager\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.RazorAssemblyInfo.cs
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - usermanager\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.AssemblyInfoInputs.cache
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - usermanager\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.AssemblyInfo.cs
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - usermanager\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.RazorTargetAssemblyInfo.cache
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - usermanager\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.dll
+C:\Users\acctechnology\Source\Repos\UserManagementDemo - usermanager\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.pdb
+C:\Users\acctechnology\Desktop\usermanagementdemo\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.deps.json
+C:\Users\acctechnology\Desktop\usermanagementdemo\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.runtimeconfig.json
+C:\Users\acctechnology\Desktop\usermanagementdemo\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.runtimeconfig.dev.json
+C:\Users\acctechnology\Desktop\usermanagementdemo\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.dll
+C:\Users\acctechnology\Desktop\usermanagementdemo\UserManagementDemo\bin\Debug\netcoreapp2.2\UserManagementDemo.pdb
+C:\Users\acctechnology\Desktop\usermanagementdemo\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.csproj.CoreCompileInputs.cache
+C:\Users\acctechnology\Desktop\usermanagementdemo\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.RazorAssemblyInfo.cache
+C:\Users\acctechnology\Desktop\usermanagementdemo\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.RazorAssemblyInfo.cs
+C:\Users\acctechnology\Desktop\usermanagementdemo\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.AssemblyInfoInputs.cache
+C:\Users\acctechnology\Desktop\usermanagementdemo\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.AssemblyInfo.cs
+C:\Users\acctechnology\Desktop\usermanagementdemo\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.RazorTargetAssemblyInfo.cache
+C:\Users\acctechnology\Desktop\usermanagementdemo\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.dll
+C:\Users\acctechnology\Desktop\usermanagementdemo\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.pdb
+C:\Users\acctechnology\Desktop\usermanagementdemo\UserManagementDemo\obj\Debug\netcoreapp2.2\UserManagementDemo.csprojAssemblyReference.cache
+C:\Users\acctechnology\Desktop\usermanagementdemo\UserManagementDemo\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\acctechnology\Desktop\usermanagementdemo\UserManagementDemo\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\acctechnology\Desktop\usermanagementdemo\UserManagementDemo\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\acctechnology\Desktop\usermanagementdemo\UserManagementDemo\bin\Debug\netcoreapp2.2\nlog.config
